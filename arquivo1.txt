@@ -6,7 +6,7 @@ nome:Diogo Ewerton Silva Do Nascimento
 resposta da lista de exercicio
 
 Questão 01
-s
+
 Questão 02
 
 
@@ -18,3 +18,9 @@ Questão 05
 Questão 06
 
 Questão 10
+
+Questão 11
+
+Questão 12
+
+comentário dos comandos
